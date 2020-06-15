@@ -1,0 +1,11 @@
+c:\users\zeynep\documents\visual studio 2013\Projects\BonusProje\BonusProje\bin\Debug\BonusProje.exe.config
+c:\users\zeynep\documents\visual studio 2013\Projects\BonusProje\BonusProje\bin\Debug\BonusProje.exe
+c:\users\zeynep\documents\visual studio 2013\Projects\BonusProje\BonusProje\bin\Debug\BonusProje.pdb
+c:\users\zeynep\documents\visual studio 2013\Projects\BonusProje\BonusProje\obj\Debug\BonusProje.csprojResolveAssemblyReference.cache
+c:\users\zeynep\documents\visual studio 2013\Projects\BonusProje\BonusProje\obj\Debug\BonusProje.Form1.resources
+c:\users\zeynep\documents\visual studio 2013\Projects\BonusProje\BonusProje\obj\Debug\BonusProje.Properties.Resources.resources
+c:\users\zeynep\documents\visual studio 2013\Projects\BonusProje\BonusProje\obj\Debug\BonusProje.csproj.GenerateResource.Cache
+c:\users\zeynep\documents\visual studio 2013\Projects\BonusProje\BonusProje\obj\Debug\BonusProje.exe
+c:\users\zeynep\documents\visual studio 2013\Projects\BonusProje\BonusProje\obj\Debug\BonusProje.pdb
+C:\Users\zeynep\documents\visual studio 2013\Projects\BonusProje\BonusProje\obj\Debug\BonusProje.FrmÖğrenciNotlar.resources
+C:\Users\zeynep\documents\visual studio 2013\Projects\BonusProje\BonusProje\obj\Debug\BonusProje.FrmOgretmen.resources
